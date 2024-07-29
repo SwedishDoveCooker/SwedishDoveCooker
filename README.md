@@ -9,7 +9,7 @@
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=SwedishDoveCooker&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SwedishDoveCooker&layout=compact&theme=dracula&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=You_Be_Love&layout=compact&theme=dracula&hide_border=true">
 <p align="center"> 
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/SwedishDoveCooker/count.svg" />
