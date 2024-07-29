@@ -4,11 +4,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SwedishDoveCooker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwedishDoveCooker" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwedishDoveCooker" width="300"/>
 </p>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=SwedishDoveCooker&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tarrailt&layout=compact&theme=dracula&hide_border=true">
 <p align="center"> 
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/SwedishDoveCooker/count.svg" />
