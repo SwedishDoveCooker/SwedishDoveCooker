@@ -24,6 +24,10 @@
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=You_Be_Love&layout=compact&theme=dracula&hide_border=true">
 </p>
+
+![My productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SwedishDoveCooker&theme=github&utcOffset=8)
+![My language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SwedishDoveCooker&theme=github)
+
 <p align="center"> 
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/SwedishDoveCooker/count.svg" />
