@@ -11,7 +11,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
 </p>
 
-~~同时也是强力中杯前端dev~~
+~~同时也是强力中杯前端dev~~我是什么时候得会ruby的???
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=SwedishDoveCooker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
